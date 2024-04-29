@@ -9,7 +9,7 @@
 
 body{
     text-align: center;
-    background: linear-gradient( to bottom, #6ab7f5, #fff);
+    background: no-repeat  linear-gradient( to bottom, #36a5ff,#4eaefd,#67baff,#7ac3ff,#bbe0ff, #fff);
     min-height: 100vh;
 }
 
