@@ -1,11 +1,24 @@
-Pokédex 🔍🎮
-É uma aplicação interativa inspirada no universo Pokémon, desenvolvida para exibir informações detalhadas sobre diferentes espécies de Pokémon de forma simples e dinâmica. Com uma interface moderna e responsiva, esta Pokédex permite que os usuários busquem seus Pokémon favoritos pelo nome ou número e naveguem entre diferentes criaturas.
+# Pokédex
 
-✨ Principais Funcionalidades:
-✔ Busca Interativa – Encontre qualquer Pokémon pelo nome ou número da Pokédex.
-✔ Navegação Simples – Use os botões "Próximo" e "Anterior" para explorar os Pokémon.
-✔ Imagens Animadas – Visualize sprites dinâmicos dos Pokémon da quinta geração.
-✔ Design Responsivo – Interface adaptável para diferentes dispositivos, usando Bootstrap.
-✔ Navbar Funcional – Links organizados para explorar mais sobre Pokémon e jogos.
+**Pokédex** é uma aplicação interativa que permite explorar informações sobre Pokémons, como nome, número e imagens. Com uma interface simples e intuitiva, você pode buscar por Pokémons utilizando seu nome ou número e navegar entre as páginas de diferentes Pokémons.
 
-Com a Pokédex, descobrir Pokémon nunca foi tão fácil e divertido! 🌟⚡🔥
+## Funcionalidades
+
+- **Busca por Pokémon:** Pesquise um Pokémon pelo nome ou número.
+- **Navegação entre Pokémons:** Navegue entre os Pokémons utilizando os botões "Próximo" e "Anterior".
+- **Exibição de Imagens:** Veja imagens animadas dos Pokémons diretamente da PokeAPI.
+- **Design Responsivo:** Interface adaptada para diferentes tamanhos de tela, utilizando o Bootstrap.
+
+## Tecnologias Utilizadas
+
+- **HTML5:** Estruturação da página.
+- **CSS3:** Estilização da interface.
+- **JavaScript:** Lógica de interação e funcionalidades dinâmicas.
+- **Bootstrap:** Framework para a criação de um layout responsivo e moderno.
+- **PokeAPI:** API que fornece dados sobre Pokémons, como nome, número e imagens.
+
+## Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/pokedex.git
