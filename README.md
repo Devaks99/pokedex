@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1f9e577-9069-41fe-a2f7-fd86e6ac8e20)  # 📖 Pokédex
+![image](https://github.com/user-attachments/assets/f1f9e577-9069-41fe-a2f7-fd86e6ac8e20)   📖 Pokédex
 
 
 **Pokédex** é uma aplicação interativa que permite explorar informações sobre Pokémons, como nome, número e imagens. Com uma interface simples e intuitiva, você pode buscar por Pokémons utilizando seu nome ou número e navegar entre as páginas de diferentes Pokémons.
