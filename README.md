@@ -34,7 +34,7 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pokedex.git
+   git clone https://github.com/Devaks99/pokedex.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
